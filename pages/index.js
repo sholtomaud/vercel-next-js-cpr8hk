@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function IndexPage() {
   return (
     <div>
-      Hello World. yo{' '}
+      Hello World. Sommit new{' '}
       <Link href="/about">
         <a>About</a>
       </Link>
